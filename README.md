@@ -1,1 +1,1 @@
-# exerc-cios-letscode
+# exercicios-letscode
